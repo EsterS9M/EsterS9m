@@ -15,8 +15,6 @@
 
  -📚  Atualmente, estou aprendendo JavaScript;
 
- -📟  Como entrar em contato comigo:
-
 <br>
 
 <br>

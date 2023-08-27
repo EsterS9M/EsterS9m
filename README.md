@@ -19,10 +19,6 @@
 
 <br>
 
-  [![Instagram Badge](https://img.shields.io/badge/-@myscenery.mytime-8A2BE2?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&)](https://instagram.com/myscenery_mytime/)<br>
-
-  [![Gmail Badge](https://img.shields.io/badge/-aestersantosdev.2001@gmail.com-8A2BE2?style=flat-square&labelColor=E1306C&logo=gmail&logoColor=white&)](link=mailto:aestersantosdev.2001@gmail.com)<br>
-
 <br>
 <div id="stack"></div>
 

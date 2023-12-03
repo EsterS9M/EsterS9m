@@ -11,7 +11,7 @@
 ### Olá! Eu sou a Ester  😊
  
 
- Minha jornada na programação começou em 01/05/2023, sou estudante de Front-end<br> e atualmente tenho 21 anos.
+ Minha jornada na programação começou em 01/05/2023, sou estudante de Front-end<br> e atualmente tenho 22 anos.
 
  -📚  Atualmente, estou aprendendo JavaScript;
 
